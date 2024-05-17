@@ -1,1 +1,1 @@
-# Generating trees for structure learning
+# Procedural tree generation with Blender
